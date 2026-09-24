@@ -1,5 +1,4 @@
 # CPU-Task-Scheduler
-CPU Task Scheduler in Python
 
 A Python program that simulates CPU scheduling algorithms:
 First-Come, First-Serve (FCFS)
